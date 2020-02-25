@@ -1,5 +1,5 @@
 ---
-title: Home
+title: NR
 banner:
   actions:
     - is_primary: true
