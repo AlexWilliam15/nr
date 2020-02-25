@@ -12,7 +12,7 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: '"Riding with Style"'
-  title: NR Riding Apparel
+  title: 'NR '
 sections:
   - background_style: style2
     component: icons.html
