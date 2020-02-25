@@ -33,7 +33,7 @@ sections:
     component: spotlights.html
     section_id: two
     spotlights:
-      - home_img_path: /images/NR1.PNG
+      - home_img_path: /images/NR2.PNG
         text: |-
           Hitam: Water Proof\
           Abu2 : Suit for all Fashion
