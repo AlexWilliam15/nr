@@ -33,18 +33,17 @@ sections:
     component: spotlights.html
     section_id: two
     spotlights:
-      - home_img_path: images/pic01.jpg
+      - home_img_path: /images/NR1.PNG
         text: |-
-          Hitam: Water Proof
-
+          Hitam: Water Proof\
           Abu2 : Suit for all Fashion
         title: 2 in 1 Jacket
-      - home_img_path: images/pic02.jpg
+      - home_img_path: /images/IMG_3176.JPG
         text: >-
           Water Repellent System diberikan untuk kenyamanan berkendara saat
           kondisi hujan.
         title: Water Repellent System
-      - home_img_path: images/pic03.jpg
+      - home_img_path: /images/IMG_3185.JPG
         text: Airflow System membuat Jacket nyaman dengan kondisi suhu di luar.
         title: Airflow System
     title: Spotlights Section
